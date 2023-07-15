@@ -1,0 +1,58 @@
+{
+  "users": [
+    [
+      {
+        "id": "21IIC001",
+        "name": "IC Inaugural",
+        "part": "220",
+        "date": "02.02.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "id": "21IIC002",
+        "name": "My Story - Motivational Session by Successful  Entrepreneur/Startup founder.",
+        "part": "250",
+        "date": "04.03.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "id": "21IIC003",
+        "name": "My Story - Motivational Session by Successful  Innovator",
+        "part": "200",
+        "date": "05.06.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "id": "21IIC004",
+        "name": "Workshop on “My Story – Innovator’s Life &  Crossroad",
+        "part": "150",
+        "date": "06.04.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "id": "21IIC005",
+        "name": "Session on Problem Solving and Ideation  Workshop",
+        "part": "100",
+        "date": "02.03.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "id": "21IIC006",
+        "name": "Orientation Session on National Education  Policy (with a focus on Innovation and  entrepreneurship)",
+        "part": "120",
+        "date": "09.08.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "id": "21IIC07",
+        "name": "Orientation Session on National Innovation and  Startup Policy (NISP)",
+        "part": "300",
+        "date": "09.07.2023",
+        "link": "https://drive.google.com/drive/folders/14JogiqyCzXY99t5Zgzz7E1IJ31cp5mXd?usp=sharing"
+      },
+      {
+        "name": ""
+      }
+    ]
+  ]
+}
